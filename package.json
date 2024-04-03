@@ -2,5 +2,9 @@
   "dependencies": {
     "nodejs": "^0.0.0",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.3",
+    "@types/readline-sync": "^1.4.8"
   }
 }
