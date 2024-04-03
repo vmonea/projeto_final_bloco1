@@ -29,6 +29,6 @@ export class Lapis extends Produto{
 
     public visualizar(): void {
         super.visualizar();
-        console.log(colors.fg.greenstrong, `É Lapiseira?: ${this._lapiseira}`);
+        console.log(colors.fg.greenstrong,`É Lapiseira?: ${this._lapiseira}`);
     }
 }

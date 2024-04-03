@@ -30,6 +30,6 @@ export class Caneta extends Produto{
 
     public visualizar(): void {
         super.visualizar();
-        console.log(colors.fg.greenstrong, `Cor da Caneta: ${this._corDaCaneta}`);
+        console.log(colors.fg.greenstrong,`Cor da Caneta: ${this._corDaCaneta}`);
     }
 }
