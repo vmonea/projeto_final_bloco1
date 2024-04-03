@@ -26,7 +26,7 @@ export function main() {
         console.log("Entre com a opção desejada: ");
         opcao = readlinesync.questionInt("");
 
-        if (opcao == 9) {
+        if (opcao == 6) {
             console.log("\nObrigado por comprar na CALUNGA COM C");
             sobre();
             process.exit(0);
